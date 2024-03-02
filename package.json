@@ -1,0 +1,26 @@
+{
+"name": "mertieprata-26",
+"version": "1.0.0",
+"description": "Whether you're a seasoned pro or just starting out",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mertieprata/mertieprata.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mertieprata",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
